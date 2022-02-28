@@ -32,7 +32,7 @@ int main()
     if (count > max)
         max = count;
 
-    cout << max;
+    cout << "max is" << max;
 
     return 0;
 }
